@@ -715,6 +715,7 @@ xclip
 
 .services-inner-box::after{
 	background: #28a9e2;
+    border: 1.5px solid #222831;
 	width: 0px;
 	height: 0px;
 	content: "";
@@ -2273,7 +2274,7 @@ select.mobile-device {
     font-weight: 400;
     font-size: 20px;
     text-transform: capitalize;
-    line-height: !important;
+    line-height: 1 !important;
 }
 
 .footer {
@@ -2524,7 +2525,7 @@ select.mobile-device {
     color: #999 !important;
     margin: 0 !important;
     padding: 0 !important;
-    line-height: 1 !important:
+    line-height: 1 !important;
 }
 
 .stat-wrap p {
@@ -2533,7 +2534,7 @@ select.mobile-device {
     margin: 0;
     font-weight: 300;
     padding: 4px 0 0;
-    line-height: 1 !important:
+    line-height: 1 !important;
 }
 
 #preloader {
